@@ -1,6 +1,9 @@
+// 1KB = 1000bytes
+// 4 bytes * 16719 = 66876 bytes = 66,8 kilobytes
+
 # Antwoorden opdracht 1
 
-Antwoord in bytes:
+Antwoord in bytes: 4 bytes * 16719 = 66876 bytes = 66,8 kilobytes
 
 Antwoord in kilobytes:
 
